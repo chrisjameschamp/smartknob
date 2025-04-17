@@ -33,7 +33,7 @@ sys.path.append(os.path.join(software_root, 'proto_gen'))
 
 from proto_gen import smartknob_pb2
 
-SMARTKNOB_BAUD = 921600
+SMARTKNOB_BAUD = 460800
 PROTOBUF_PROTOCOL_VERSION = 1
 
 
